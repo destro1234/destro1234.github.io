@@ -1,11 +1,11 @@
 # Site settings
 author: Elias Ventura
-title: 
+title: Between The Lines
 header-img: img/home-bg.png
 email: eliasventura23@gmail.com
 copyright_name: Elias Ventura
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One Line At a Time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  destro1234
